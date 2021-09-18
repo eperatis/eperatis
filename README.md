@@ -29,6 +29,8 @@ It's a simple webpage, you can check if you itrested. (www.doradental.hu)
 > At the classes we learned the fundamentals of programming, algorithms, design patters, networks, artificial intelligence, some mobile app development(android), web development with php and how to create a Rest API with java and spring.
 > 
 > At the university we have an oportunity to be a part of a research group. I took the oportunity and joined. I'm learned a lot about dockerizing, microservices and the full stack development introduced as well. Trough four semesteron every friday from 8am to 4pm we are at the university and learning new technologies.
+>
+> In final thesis, I have to refactor an exicting project and created an enviroment which is based on a Micro Service architecture where each current subsystem will be a service. For this I designed the environment, dockerized the subsystems, created the environment with nginx and tested it.
 
 ---
 
