@@ -9,11 +9,13 @@ Creating porjects in MERN stack, if you are intrested, my favourites pinned belo
 ### Experience
 
 **Internship at Intelligent Information Systems Research Group EKU**
-> It was an eight week internship that I done in the summer of 2020.
->> Languages that I used: 
+> It was an eight week internship that I done in the summer of 2020. I have a chance to get more experience in JavaScript. Itroduced to new JS based frameworks such as React and NodeJS. I had a really good mentor. He taught me how to design and create a React front end application, how to create faker service in NodeJS so I can develop a front end without a back end. It was very usefull.
+>> Languages that I used:
+>> 
+>><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 
 **Creating a website for a local dental lab**
-> It was a volunteer work, two of my friends and I working on this website, we don't ask for money we are working for expreience.
+> It was a volunteer work, two of my friends and I working on this website, we don't ask for money, we are working for expreience.
 It's a simple webpage, you can check if you itrested. (www.doradental.hu)
 >> Languages that we used:
 >> 
@@ -22,6 +24,11 @@ It's a simple webpage, you can check if you itrested. (www.doradental.hu)
 ---
 
 ### Education
+
+#### Eszterházy Károly University
+> At the classes we learned the fundamentals of programming, algorithms, design patters, networks, artificial intelligence, some mobile app development(android), web development with php and how to create a Rest API with java and spring.
+> 
+> At the university we have an oportunity to be a part of a research group. I took the oportunity and joined. I'm learned a lot about dockerizing, microservices and the full stack development introduced as well. Trough four semesteron every friday from 8am to 4pm we are at the university and learning new technologies.
 
 ---
 
