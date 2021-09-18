@@ -2,7 +2,7 @@
 
 My name is Attila Eperjesi and I'm a freshly graduated student form EKU.
 I'm looking for a job right now, but in meanwhile I'm practicing my programming skills.
-Creating porjects in MERN stack, if you are intrested, my favourites pinned below.
+Creating projects in MERN stack, if you are interested, my favourites pinned below.
 
 ---
 
