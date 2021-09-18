@@ -30,7 +30,7 @@ It's a simple webpage, you can check if you itrested. (www.doradental.hu)
 > 
 > At the university we have an oportunity to be a part of a research group. I took the oportunity and joined. I'm learned a lot about dockerizing, microservices and the full stack development introduced as well. Trough four semesteron every friday from 8am to 4pm we are at the university and learning new technologies.
 >
-> In final thesis, I have to refactor an exicting project and created an enviroment which is based on a Micro Service architecture where each current subsystem will be a service. For this I designed the environment, dockerized the subsystems, created the environment with nginx and tested it.
+> In final thesis, I had to desing and create the fornt end for an existing application and I had to refactor an exicting project. Unfortunately, the back end wasn't ready to develop the front end, so I can olny just designed the structure. And created an enviroment which is based on a Micro Service architecture, where each current subsystem will be a service. For this I designed the environment, becouse the back end it wasn't ready, I only had a chance to test it on a smaller project. For the environment design I used <img alt="Docker" src="https://img.shields.io/badge/Docker-0078D6?style=for-the-badge" /><img alt="docker compose" src="https://img.shields.io/badge/docker compose-0078D6?style=for-the-badge" /><img alt="nginx" src="https://img.shields.io/badge/nginx-43853D?style=for-the-badge&logo=node.js&logoColor=white" />.
 
 ---
 
