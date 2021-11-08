@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Attila Eperjesi and I'm a freshly graduated student form EKU.
+My name is Attila Eperjesi and I'm a freshly graduated student from EKU.
 I'm looking for a job right now, but in meanwhile I'm practicing my programming skills.
 Creating projects in MERN stack, if you are interested, my favourites pinned below.
 
