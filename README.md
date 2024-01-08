@@ -2,6 +2,7 @@
 
 My name is Attila Eperjesi and I'm a junior software engineer with a Bachelor's degree in Computer Science and Engineering and experience in JavaScript and Angular.
 
+<!--
 ---
 
 ### Experience
@@ -51,7 +52,7 @@ It's a simple webpage, you can check if you itrested. (www.doradental.hu)
  - :world_map: Hiking & sightseeing
  - :video_game: Gaming PlayStation & Nintendo Switch
  - :computer: Creating and working on new project to deeping my knowledge in JavaScript
-<!--
+
 **eperatis/eperatis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
