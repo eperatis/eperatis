@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Attila Eperjesi and I'm a mid level software engineer with a Bachelor's degree in Computer Science and Engineering and experience in JavaScript and Angular.
+My name is Attila Eperjesi and I'm a mid level software engineer with a Bachelor's degree in Computer Science and Engineering and experience in JavaScript TypeScript and Angular. Also, interested in machine learning in my spare time.
 
 <!--
 ---
